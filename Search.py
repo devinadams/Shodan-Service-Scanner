@@ -1,5 +1,5 @@
 # Shodan ip search term scraper
-# By klorox
+
 
 from bs4 import BeautifulSoup
 import requests
